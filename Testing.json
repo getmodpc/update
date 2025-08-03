@@ -1,9 +1,13 @@
 {
-    "Title": "New Update🌿",
-    "versionCode": "00000",
-    "versionName": "24.45",
-    "AppName": "Android Assistant",
-    "releaseDate": "",
-    "Msg": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 🛠️\n◉ Added new features\n◉ Bug fixes and improvements\n\nJoin the telegram channel and update instantly with one click.",
-    "downloadLink": "https://t.me/Getmodpcs"
+  "isUpdate": true,
+  "title": "𝗡𝗲𝘄 𝗨𝗽𝗱𝗮𝘁𝗲 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲!",
+  "version": "Update the latest version enjoy the new features.",
+  "updateUrl": "Getmodpcs",
+  "description": [
+    "",
+    "",
+
+""
+
+  ]
 }
