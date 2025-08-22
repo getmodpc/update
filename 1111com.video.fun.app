@@ -1,6 +1,6 @@
 {
     "Title": "New Update 🌿",
-    "versionCode": "00000",
+    "versionCode": "54548",
     "versionName": "5.4548",
     "AppName": "VidMate Premium",
     "releaseDate": "",
