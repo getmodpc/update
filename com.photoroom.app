@@ -1,9 +1,9 @@
 {
     "Title": "New Update 🌿",
     "versionCode": "00000",
-    "versionName": "2025.52.08",
+    "versionName": "2025.52.10",
     "AppName": "PhotoRoom Pro",
     "releaseDate": "",
     "Msg": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 🛠️\n◉ Added new features\n◉ Bug fixes and improvements\n\nJoin the telegram channel and update instantly with one click.",
-    "downloadLink": "https://t.me/Getmodpcs/7397"
+    "downloadLink": "https://t.me/Getmodpcs/7793"
 }
