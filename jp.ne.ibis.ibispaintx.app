@@ -1,9 +1,9 @@
 {
     "Title": "New Update 🌿",
     "versionCode": "00000",
-    "versionName": "13.5.4",
+    "versionName": "13.5.08",
     "AppName": "ibisPaint X Pro",
     "releaseDate": "",
     "Msg": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 🛠️\n◉ Added new features\n◉ Bug fixes and improvements\n\nJoin the telegram channel and update instantly with one click.",
-    "downloadLink": "https://t.me/Getmodpcs"
+    "downloadLink": "https://t.me/Getmodpcs/7872"
 }
