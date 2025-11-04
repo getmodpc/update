@@ -1,9 +1,9 @@
 {
     "Title": "New Update 🌿",
-    "versionCode": "00000",
-    "versionName": "25.9.29R",
-    "AppName": "Podcast Republic",
+    "versionCode": "0",
+    "versionName": "25.9.30R",
+    "AppName": "Podcast Republic Pro APK",
     "releaseDate": "",
-    "Msg": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 🛠️\n◉ Added new features\n◉ Bug fixes and improvements\n\nJoin the telegram channel and update instantly with one click.",
-    "downloadLink": "https://t.me/Getmodpcs"
+    "Msg": "Click the Update button, join the telegram channel, and then download to update.",
+    "downloadLink": "https://t.me/Getmodpcs/7835"
 }
