@@ -1,9 +1,9 @@
 {
-    "Title": "New Update🌿",
-    "versionCode": "0000",
-    "versionName": "4.3.0",
-    "AppName": "Currency",
-    "releaseDate": "\n\nRelease: September 21, 2025",
-    "Msg": "What's New 🛠️\n◉ Added new features\n◉ Bug fixes and improvements",
-    "downloadLink": "https://t.me/Getmodpcs"
+    "Title": "New Update 🌿",
+    "versionCode": "0",
+    "versionName": "4.3.1",
+    "AppName": "Currency Mod APK",
+    "releaseDate": "",
+    "Msg": "Click the Update button, join the telegram channel, and then download to update.",
+    "downloadLink": "https://t.me/Getmodpcs/8013"
 }
