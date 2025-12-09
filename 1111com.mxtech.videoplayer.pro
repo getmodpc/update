@@ -1,9 +1,0 @@
-{
-    "Title": "New Update 🌿",
-    "versionCode": "0",
-    "versionName": "2.4.0",
-    "AppName": "MX Player Pro APK",
-    "releaseDate": "",
-    "Msg": "Click the Update button, join the telegram channel, and then download to update.",
-    "downloadLink": "https://t.me/Getmodpcs/9275"
-}
