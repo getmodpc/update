@@ -1,9 +1,0 @@
-{
-    "Title": "New Update 🌿",
-    "versionCode": "0",
-    "versionName": "1.17.0",
-    "AppName": "QuickEdit+ Pro Mod APK",
-    "releaseDate": "",
-    "Msg": "Click the Update button, join the telegram channel, and then download to update.",
-    "downloadLink": "https://t.me/Getmodpcs/9464"
-}
