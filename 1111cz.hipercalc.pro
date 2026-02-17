@@ -1,9 +1,0 @@
-{
-    "Title": "New Update🌿",
-    "versionCode": "00000",
-    "versionName": "11.9.1",
-    "AppName": "HiPER Calc Pro",
-    "releaseDate": "",
-    "Msg": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 🛠️\n◉ Added new features\n◉ Bug fixes and improvements\n\nJoin the telegram channel and update instantly with one click.",
-    "downloadLink": "https://t.me/Getmodpcs"
-}
