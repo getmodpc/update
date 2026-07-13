@@ -1,8 +1,9 @@
 {
   "Title": "Update Available!",
-  "versionCode": "99999",
+  "versionCode": "2147483647",
   "versionName": "2.9.0",
   "AppName": "Android Assistant APK",
-  "Msg": "What's New\nBug fixes and improvements.\n\nCurrent Version: 2.6.1\nNew Version: 2.9.0\n\nTap Update to download the latest version.",
+  "releaseDate": "2.6.1",
+  "Msg": "What's New\nBug fixes and improvements.\n\nTap Update to download the latest version.",
   "downloadLink": "https://t.me/getmodpcs/744"
 }
