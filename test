@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "id": 1006,
-  "title": "Important Notification",
-  "subtitle": "Fast - Safe - Secure",
+  "title": "",
+  "subtitle": "",
 
   "media_type": "image",
   "media_url": "https://drive.google.com/file/d/1N5c0uNt0_GK1KARsrAJzqHnxT0j_a2c4/view?usp=drivesdk",
