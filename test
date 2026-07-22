@@ -1,13 +1,9 @@
 {
   "enabled": true,
-  "id": 1006,
-  "title": "hhgg",
-  "subtitle": "jhv",
-
+  "id": 1005,
   "media_type": "image",
-  "media_url": "https://drive.google.com/file/d/1N5c0uNt0_GK1KARsrAJzqHnxT0j_a2c4/view?usp=drivesdk",
+  "media_url": "https://drive.google.com/file/d/1JqsWnkrE23FHpP_vrBU22Ou_mnhimWVh/view?usp=drivesdk",
   "media_height": 180,
-
   "message": "A new update is available. Tap the button below to continue.",
   "button": "Open",
   "close_button": "Later",
