@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "id": 1001,
+  "title": "Important Notification",
+  "message": "A new update is available. Tap the button below to continue.",
+  "button": "Open",
+  "close_button": "Later",
+  "url": "https://getmodpc.com/",
+  "force": false,
+  "cancelable": true,
+  "show_once": true,
+  "minVersion": 1,
+  "maxVersion": 2147483647,
+  "expire": "2027-12-31"
+}
