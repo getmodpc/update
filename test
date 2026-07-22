@@ -1,9 +1,21 @@
 {
-    "Title": "Update Available!",
-    "versionCode": "0",
-    "versionName": "99999",
-    "AppName": "Android Assistant APK",
-    "releaseDate": "",
-    "Msg": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄\nBug fixes and improvements\n\nClick the Update button to download the latest version.",
-    "downloadLink": "https://t.me/getmodpcs"
+  "enabled": true,
+  "id": 1005,
+  "title": "Important Notification",
+  "subtitle": "Fast - Safe - Secure",
+
+  "media_type": "image",
+  "media_url": "https://t.me/Official_Mod_APKS/7",
+  "media_height": 180,
+
+  "message": "A new update is available. Tap the button below to continue.",
+  "button": "Open",
+  "close_button": "Later",
+  "url": "https://getmodpc.com/",
+  "force": false,
+  "cancelable": true,
+  "show_once": true,
+  "minVersion": 1,
+  "maxVersion": 2147483647,
+  "expire": "2027-12-31"
 }
