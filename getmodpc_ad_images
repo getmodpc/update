@@ -6,7 +6,7 @@
   "close_button": "Skip",
   "url": "https://getmodpc.com",
   "media_type": "image",
-  "media_url": "https://example.com/image.jpg",
+  "media_url": "https://drive.google.com/file/d/1N5c0uNt0_GK1KARsrAJzqHnxT0j_a2c4/view?usp=drivesdk",
   "media_height": 180,
   "show_once": true,
   "expire": "2099-12-31"
