@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "id": 6002,
+  "message": "Your message here.",
+  "button": "Open",
+  "close_button": "Skip",
+  "url": "https://getmodpc.com",
+  "media_type": "video",
+  "media_url": "https://stream.vidhosting.in/videos/e263426b.mp4",
+  "media_height": 180,
+  "show_once": true,
+  "expire": "2027-12-31"
+}
