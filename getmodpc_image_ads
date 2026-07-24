@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "id": 5001,
   "message": "Your message here.",
   "button": "Open",
