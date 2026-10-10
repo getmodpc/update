@@ -1,9 +1,9 @@
 {
     "Title": "New Update🌿",
     "versionCode": "0",
-    "versionName": "6.8.0",
-    "AppName": "AnExplorer Pro Paid APK",
+    "versionName": "6.8.3",
+    "AppName": "AnExplorer Pro",
     "releaseDate": "",
     "Msg": "Click the Update button to download the latest version.",
-    "downloadLink": "https://t.me/Getmodpcs/14143"
+    "downloadLink": "https://t.me/Getmodpcs/16157"
 }
