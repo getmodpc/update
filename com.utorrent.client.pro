@@ -1,9 +1,9 @@
 {
     "Title": "New Update🌿",
     "versionCode": "0",
-    "versionName": "8.6.0",
-    "AppName": "µTorrent Pro Mod APK",
+    "versionName": "8.7.10",
+    "AppName": "µTorrent Pro",
     "releaseDate": "",
     "Msg": "Click the Update button to download the latest version.",
-    "downloadLink": "https://t.me/Getmodpcs/10983"
+    "downloadLink": "https://t.me/Getmodpcs/17447"
 }
